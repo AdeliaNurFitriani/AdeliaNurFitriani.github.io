@@ -1,0 +1,33 @@
+{
+	"bt21":
+	[{
+		"aimg" : "assets/images/1.png",
+		"barang" : "Pulpen BT21 PREMIUM",
+		"harga" : "Rp 2.000"
+	},
+	{	
+		"aimg" : "assets/images/2.png",
+		"barang" : "Boneka BT21",
+		"harga" : "Rp 47.000"
+	},
+	{
+		"aimg" : "assets/images/3.png",
+		"barang" : "Converse Ox Line Friends",
+		"harga" : "Rp 522.500"
+	},
+	{
+		"aimg" : "assets/images/4.png",
+		"barang" : "T-Shirt - Kaos BT21",
+		"harga" : "Rp 35.000"
+	},
+	{
+		"aimg" : "assets/images/5.png",
+		"barang" : "Kaos BT21 X Line Square Putih",
+		"harga" : "Rp 115.000"
+	},
+	{
+		"aimg" : "assets/images/6.png",
+		"barang" : "Kaos BT21 X Line No Milk Navy",
+		"harga" : "Rp 85.000"
+	}]
+}
